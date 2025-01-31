@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a Tcl procedure related to string comparison. The `badproc` procedure incorrectly compares strings, failing when strings are numerically equal but not lexically identical. The `bugSolution.tcl` file provides a corrected version.
